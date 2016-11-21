@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="url">https://i.ytimg.com/vi/DWloytNgF2g/maxresdefault.jpg</string>
+    <string name="button_text">Открыть в браузере</string>
+    <string name="wait">Ожидайте...</string>
+    <string name="loading">Картинка загружается...</string>
+    <string name="enjoy">Enjoy yourself!</string>
+    <string name="android">Android!</string>
+    <string name="ios">IOS!</string>
+    <string name="change_scale_text">Here you can change image scale:</string>
+    <string name="action_settings">Settings</string>
+    <string name="bg">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <color name="redColor">#FFFF0000</color>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#FF00FF00</color>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <color name="pinkColor">#fa7899</color>
+    <color name="blueColor">#9a9df4</color>
+    <color name="orangeColor">#ff9239</color>
+    <string name="pink">Розовый</string>
+    <string name="blue">Синий</string>
+    <string name="orange">Оранжевый</string>
+
+
+
+</resources>

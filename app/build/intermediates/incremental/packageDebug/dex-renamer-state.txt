@@ -1,0 +1,7 @@
+#Mon Dec 12 17:25:31 MSK 2016
+base.0=/home/me4/AndroidStudioProjects/Lab3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b528970072951e5da3fa1e35a6e9a38856c5c381
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/me4/AndroidStudioProjects/Lab3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab181ff3f5a37f6a61762e29a9505c48d3e16226/classes.dex
+base.1=/home/me4/AndroidStudioProjects/Lab3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab181ff3f5a37f6a61762e29a9505c48d3e16226
+file.0=/home/me4/AndroidStudioProjects/Lab3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b528970072951e5da3fa1e35a6e9a38856c5c381/classes.dex
